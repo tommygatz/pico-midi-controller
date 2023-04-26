@@ -1,5 +1,5 @@
 # Raspberry Pi Pico MIDI Controller
-A MIDI Controller using a Raspberry Pi Pico and Circuitpython
+A MIDI Controller using a Raspberry Pi Pico with the Pimoroni 4x4 RGB Keypad.
 
 
 
