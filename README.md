@@ -14,4 +14,4 @@ A MIDI Controller using a Raspberry Pi Pico with the Pimoroni 4x4 RGB Keypad.
 7.) After they all transfer successfully, you should be good to go!  
 
 
-### NOTE: In case you run into any issues, you can factory reset the PICO device by repeating steps 2-4 above, and using the "flash_nuke.uf2" file instead. This will wipe everything and you can start from scratch.
+#### NOTE: In case you run into any issues, you can factory reset the PICO device by repeating steps 2-4 above, and using the "flash_nuke.uf2" file instead. This will wipe everything and you can start from scratch.
